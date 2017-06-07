@@ -19,7 +19,7 @@ body {
   /* elements added to create a responsive website */
   padding:0;
   margin: 0;
-  background-color: red;
+  background-color: green;
 }
 
 p {}
@@ -43,7 +43,7 @@ fieldset {
 
 /* Set black background color, white text and some padding */
  footer {
-   background-color: #555;
+   background-color: #6DC066;
    color: white;
    padding: 15px;
  }
