@@ -71,7 +71,7 @@ fieldset {
 
 .left-panel {
   float: left;
-  width: 47%;
+  width: 60%;
   margin-left: 1px;
   padding-top: 3px;
 }
@@ -82,7 +82,7 @@ fieldset {
 .right-panel {
   /*background-color:;*/
   float: right;
-  width: 47%;
+  width: 20%;
   margin-right: 60px;
   padding-top: 3px;
 }
