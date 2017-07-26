@@ -71,7 +71,7 @@ fieldset {
 
 .left-panel {
   float: left;
-  width: 60%;
+  width: 70%;
   margin-left: 1px;
   padding-top: 3px;
 }
@@ -140,46 +140,6 @@ background-color: grey;
 
 
 /* HERE WE ADD ALL THE CHANGES MADE TO INDIVIDUAL COMPONENTS OF THE WEBSITE*/
-
-
-/* section to manipulate the you tube video*/
-
-.video {}
-
-
-/* spacing the radio buttons from each other*/
-
-input[type="radio"] {
-  margin: 10 10px 0 10px;
-}
-
-
-/* changes the color of the individual labels in the "DEFAULT COMMENTS" section */
-
-#unclear-comment {
-  /*text-color must be #CBCA43 */
-  color: #CBCA43;
-  font-size: 18px;
-}
-
-#wrong-comment {
-  /*text-color must be #FC371D */
-  color: #FC371D;
-  font-size: 18px;
-}
-
-#slowly-comment {
-  /*text-color must be #0D40FB */
-  color: #0D40FB;
-  font-size: 18px;
-}
-
-#quickly-comment {
-  /*text-color must be #FD9828*/
-  color: #FD9828;
-  font-size: 18px;
-}
-
 
 /*deals with the individual elements in the navigation bar*/
 
