@@ -63,19 +63,23 @@ fieldset {
 /* SECTION: Layout */
 /*******************/
 
-.sectionContent{
+.sectionContent000{
 	display: -webkit-flex;
 	display: -ms-flexbox;
 	display: flex;
 	overflow: hidden;
 }
 
-.sectionContent .col{
+.sectionContent000 .col{
 	flex: 1;
 }
 
 h3 a{
 	color: black;
+}
+
+h3 {
+	line-height: 150%;
 }
 
 
