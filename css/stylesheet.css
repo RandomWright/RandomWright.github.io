@@ -95,12 +95,11 @@ h3 {
 }
 
 #fill {
-	background: WhiteSmoke;
 	border: 5px solid white;
 }
 
 #fill:hover {
-	background: white;
+	background: whiteSmoke;
 }
 
 /* class used for layout of the left side of the webpage */
