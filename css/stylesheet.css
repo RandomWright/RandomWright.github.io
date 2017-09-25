@@ -22,7 +22,6 @@ body {
   background-color: green;
 }
 
-p {}
 
 
 /* DEFAULT COMMENTS block*/
@@ -41,16 +40,6 @@ fieldset {
   background-color: #333;
 }
 
-/* Set black background color, white text and some padding */
- footer {
-   background-color: #6DC066;
-   color: white;
-   padding: 15px;
- }
-
- nav{
-   background-color: red;
- }
 
 
 
