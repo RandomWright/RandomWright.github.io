@@ -22,7 +22,11 @@ body {
   background-color: #6DC066;
 }
 
-h2 {
+
+
+/*MAIN PAGE LINKS*/
+
+h2.title{
 	font-size: 10vw;
 	font-family: Verdana, Geneva, sans-serif;
 	color: #e2e0e0;
